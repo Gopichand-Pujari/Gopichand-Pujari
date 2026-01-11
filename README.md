@@ -2,21 +2,23 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Fresher;Aspiring+SOC+Analyst;Vulnerability+Assessment+%26+Incident+Monitoring;Java+%7C+Spring+Boot+%7C+Cybersecurity+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Fresher;Aspiring+SOC+Analyst;Vulnerability+Assessment+%26+Incident+Monitoring;"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-<h2 align="center">Hi, I'm Gopichand Pujari 👋</h2>
+<h3 align="center" style="background-color:#1f6feb; color:white; padding:8px; border-radius:6px;">
+Hi, I’m Gopichand Pujari 👋
+</h3>
 
 <p align="center">
-  <b>Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
-  Vulnerability Assessment & Incident Monitoring
-</p>
 
-<hr style="border: 1px solid #00ff99; width: 70%;" />
+🔹 <b>Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
+🔹 <b>Vulnerability Assessment & Incident Monitoring</b> | Threat Detection & Network Defense<br>
+🔹 🎓 <b>Master of Computer Applications (MCA)</b><br>
+🔹 💼 <b>Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</b>
 
 ---
 
