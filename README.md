@@ -13,9 +13,9 @@
 Hi, I’m Gopichand Pujari 👋
 </h2>
 
-<p align="center">
 
-🔹 <b>Cybersecurity Fresher | Aspiring SOC Analyst</b></p><br>
+
+🔹<p align="center"> <b>Cybersecurity Fresher | Aspiring SOC Analyst</b></p>
 
 🔹<p> <b>Master of Computer Applications (MCA)</b> | Passionate about Vulnerability Assessment, Incident Monitoring & Threat Detection<br></p>
 
