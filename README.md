@@ -15,13 +15,13 @@ Hi, I’m Gopichand Pujari 👋
 
 <p align="center">
 
- <b>                         🔹Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
+🔹 <b>Cybersecurity Fresher | Aspiring SOC Analyst</b></p><br>
 
-🔹 <b>Master of Computer Applications (MCA)</b> | Passionate about Vulnerability Assessment, Incident Monitoring & Threat Detection<br>
+🔹<p> <b>Master of Computer Applications (MCA)</b> | Passionate about Vulnerability Assessment, Incident Monitoring & Threat Detection<br></p>
 
-  <i>             🔹Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</i>
+  🔹<p align="center"><i> Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</i></p>
 
-</p>
+
 
 
 ---
