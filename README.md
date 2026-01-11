@@ -89,7 +89,7 @@ Hi, I’m Gopichand Pujari 👋
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn:[ https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/gopichand-pujari-279ab1341/) 
+🔗 LinkedIn:[ https://linkedin.com/in/my-profile ](https://www.linkedin.com/in/gopichand-pujari-279ab1341/) 
 📧 Email: gopichand.pujari4@gmail.com  
 
 ---
