@@ -15,20 +15,12 @@ Hi, I’m Gopichand Pujari 👋
 
 <p align="center">
 
-🔹 <b align="center">Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
-🔹 <b align="center">Vulnerability Assessment & Incident Monitoring</b> | Threat Detection & Network Defense<br>
-🔹 🎓 <b align="center">Master of Computer Applications (MCA)</b><br>
-🔹 💼 <b align="center">Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</b>
+🔹 <b>Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
+🔹 <b>Vulnerability Assessment & Incident Monitoring</b> | Threat Detection & Network Defense<br>
+🔹 🎓 <b>Master of Computer Applications (MCA)</b><br>
+🔹 💼 <b>Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</b>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎯 Cybersecurity Fresher focused on SOC operations and vulnerability assessment  
-🔐 Passionate about threat detection, log analysis, and incident monitoring  
-🎓 Strong foundation in networking, operating systems, and programming  
-🚀 Actively preparing for SOC Analyst, Vulnerability Analyst & Cybersecurity Fresher roles  
 
 ---
 
