@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Actively Seeking Cybersecurity Roles | Immediate Joiner</h1>
 
-<!--
-**Gopichand-Pujari/Gopichand-Pujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Fresher;Aspiring+SOC+Analyst;Vulnerability+Assessment+%26+Incident+Monitoring;Java+%7C+Spring+Boot+%7C+Cybersecurity+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Hi, I'm Gopichand Pujari 👋</h2>
+
+<p align="center">
+  <b>Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
+  Vulnerability Assessment & Incident Monitoring
+</p>
+
+<hr style="border: 1px solid #00ff99; width: 70%;" />
+
+---
+
+## 👨‍💻 About Me
+
+🎯 Cybersecurity Fresher focused on SOC operations and vulnerability assessment  
+🔐 Passionate about threat detection, log analysis, and incident monitoring  
+🎓 Strong foundation in networking, operating systems, and programming  
+🚀 Actively preparing for SOC Analyst, Vulnerability Analyst & Cybersecurity Fresher roles  
+
+---
+
+## 🛠 Technical Skills
+
+### 🔹 Cybersecurity & SOC Tools
+![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-000?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-000?style=for-the-badge&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark)
+![Splunk](https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk)
+
+### 🔹 Security Knowledge
+- Vulnerability Assessment
+- Incident Monitoring
+- Threat Detection
+- Log Analysis
+- SQL Injection (SQLi)
+
+
+### 🔹 Programming & Scripting
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=for-the-badge&logo=powershell)
+
+### 🔹 Web & Database
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+### 🔹 Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+
+### 🔹 Operating Systems & Networking
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Networking](https://img.shields.io/badge/ComputerNetworking-000?style=for-the-badge)
+
+---
+
+## 📌 Career Focus
+
+- SOC Analyst Fresher  
+- Vulnerability Assessment Analyst  
+- Cybersecurity Fresher  
+- Incident Response & Monitoring  
+
+---
+
+## 📂 Practical Projects
+
+🔹 Nmap Network Scanning & Enumeration  
+🔹 Nessus Vulnerability Scanning  
+🔹 Burp Suite Web Application Testing  
+🔹 Wireshark Traffic Analysis  
+🔹 Splunk Log Monitoring & Alerts  
+🔹 SQL Injection Testing Labs  
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn:[ https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/gopichand-pujari-279ab1341/) 
+📧 Email: gopichand.pujari4@gmail.com  
+
+---
+
+⭐ *Open to fresher roles, internships & trainee opportunities in Cybersecurity and SOC.*
