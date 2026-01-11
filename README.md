@@ -19,6 +19,7 @@ Hi, I’m Gopichand Pujari 👋
 🔹 <b>Vulnerability Assessment & Incident Monitoring</b> | Threat Detection & Network Defense<br>
 🔹 🎓 <b>Master of Computer Applications (MCA)</b><br>
 🔹 💼 <b>Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</b>
+</p>
 
 ---
 
