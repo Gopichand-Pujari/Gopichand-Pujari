@@ -9,16 +9,18 @@
 
 ---
 
-<h3 align="center" style="background-color:#1f6feb; color:white; padding:8px; border-radius:6px;">
+<h2 align="center" style="background-color:#1f6feb; color:white; padding:8px; border-radius:6px;">
 Hi, I’m Gopichand Pujari 👋
-</h3>
+</h2>
 
 <p align="center">
 
 🔹 <b>Cybersecurity Fresher | Aspiring SOC Analyst</b><br>
-🔹 <b>Vulnerability Assessment & Incident Monitoring</b> | Threat Detection & Network Defense<br>
-🔹 🎓 <b>Master of Computer Applications (MCA)</b><br>
-🔹 💼 <b>Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</b>
+
+🔹 <b>Master of Computer Applications (MCA)</b> | Passionate about Vulnerability Assessment, Incident Monitoring & Threat Detection<br>
+
+🔹 💼 <i>Actively seeking Cybersecurity / SOC Analyst opportunities | Immediate Joiner</i>
+
 </p>
 
 
